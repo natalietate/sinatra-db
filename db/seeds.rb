@@ -1,0 +1,5 @@
+User.create(f_name: "Avocado", l_name: "Joe")
+User.create(f_name: "Sally", l_name: "Shrimp")
+User.create(f_name: "Clementine", l_name: "Orange")
+User.create(f_name: "Samuel", l_name: "Steak")
+User.create(f_name: "Lonny", l_name: "Lobster")
